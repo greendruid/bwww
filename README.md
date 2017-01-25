@@ -1,2 +1,2 @@
 # bwww
-DUMMY BACKUP TOOL
+easy ALGOL-like backup tool :)
